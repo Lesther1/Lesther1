@@ -1,16 +1,30 @@
-# console.log ('HELLO I AM LESTHER REY 😄')
+# console.log ('HELLO WORLD🖖 ')
+------------
+#### About me:
+###### I am Lesther Rey, passionate about software development. Welcome to my GitHub profile. Here you can find some of my personal projects, contributions to open source repositories and other interesting things.
 
-<!--
-**Lesther1/Lesther1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+#### Tegnologias I use:
+- 🗒️ Html
+- 🖌️ Css
+- ⚙️ Javascript
+- 🧫React
+- 🖥️Php
+- ⚙️Node 
+- ⚙️Express 
+- 🗃️MongoDb
+- 🗄️Mysql
+- 📊Xampp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------------
+
+#### Contact
+###### If you have any questions or just want to say hello, do not hesitate to contact me. You can do it through 
+📧lesthercrespo@gmail.com
+
+###### Thank you for visiting my GitHub profile!If you have any questions or just want to say hello, do not hesitate to contact me.You can do it through 
+😊https://www.linkedin.com/in/lesther-antonio-rey-crespo
+
+###### Thank you for visiting my GitHub profile!
