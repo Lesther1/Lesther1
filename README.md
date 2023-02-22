@@ -30,4 +30,4 @@
 ###### Thank you for visiting my GitHub profile!
 
 ------------
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Lesther1&label=Visitor&countColor=%23697689)
+![Visitors](https://api.visitorbadge.io/api/daily?path=Lesther1&label=Visitor&countColor=%232ccce4&style=flat&labelStyle=none)
