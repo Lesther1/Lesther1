@@ -1,8 +1,9 @@
 # console.log ('HELLO WORLD🖖 ')
 ------------
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF animado de pinguinos programando" width="240" height="180">
+
 #### About me:
 ###### I am Lesther Rey, passionate about software development. Welcome to my GitHub profile. Here you can find some of my personal projects, contributions to open source repositories and other interesting things.
-
 ------------
 
 #### Tegnologias I use:
