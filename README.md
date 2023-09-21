@@ -17,6 +17,10 @@
 - 🗃️MongoDb
 - 🗄️Mysql
 - 📊Xampp
+- 📊Visual basic
+- 📊.net
+- 📊C
+- 📊sqlServer
 
 
 ------------
